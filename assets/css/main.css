@@ -4687,3 +4687,8 @@ input, select, textarea {
 		}
 
 	}
+
+	.posts img{
+		width: 700px;
+		height: 500px;
+	}
